@@ -1,7 +1,7 @@
 {
-  "name": "videogames-project",
+  "name": "videogame-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "a videogame wiki project for school using html",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
